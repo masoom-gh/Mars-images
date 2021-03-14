@@ -1,0 +1,70 @@
+﻿body, html {
+    height: 100%;
+    background-image: url("../images/background2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    max-width: 100px;
+}
+
+#navbar-custom {
+    background-color:rgb(61,40,4);
+}
+
+#footer {
+    background-color: rgb(61,40,4);
+    color: antiquewhite;
+}
+
+.rover {
+    font-family: 'Courgette', cursive;
+    max-width: 80%;
+    border: 2px solid black;
+    background-color:antiquewhite;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 35px;
+    text-align: center;
+    opacity: 0.6;
+}
+
+.rover a {
+    color: black;
+}
+
+#carousel {
+    margin: 10px;
+    padding: 10px;
+}
+
+.rovers .btn {
+    display: inline-block;
+    width: 100%;
+}
+
+#rover-image {
+    display: inline-block;
+    width: 100%;
+}
+
+#rover-info, #rover-images, #date-div, #membership-div {
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    width: 100%
+}
+
+#membership-div {
+    opacity: 0.7;
+}
+
+.images {
+        display: inline-block;
+        width: 100%;
+        padding: 10px 0px;
+    }

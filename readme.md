@@ -1,0 +1,1 @@
+This application is created to show photos from three rovers of Mars. The NASA APIs is used for fetching the ímages from Curiocity, Opprtunity and Spirit. ASP .NET Core is used for backend and the frontend is made using html, css and Javascript.
